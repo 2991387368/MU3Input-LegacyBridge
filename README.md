@@ -1,4 +1,4 @@
-本项目为很早以前的promicro主控的nageki连接新的io（https://github.com/Sanheiii/ongeki-io）做了一个兼容层，老的io打不上mod而且适配的segatools也不知道是哪年的东西于是鞭策ai产出了这么个东西，以下为ai生成的readme
+本项目为很早以前的promicro主控的nageki连接新的io（ https://github.com/Sanheiii/ongeki-io ）做了一个兼容层，老的io打不上mod而且适配的segatools也不知道是哪年的东西于是鞭策ai产出了这么个东西，以下为ai生成的readme
 
 
 
